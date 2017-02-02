@@ -1,1 +1,1 @@
-all purpose scripts not only bash ones, it gets added to your my home bin directory.
+all scripts not only bash ones, it gets added to your home bin directory.
