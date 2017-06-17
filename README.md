@@ -1,8 +1,9 @@
 # Bash scripts
 
 These are my bash scripts,
-that I use on my daily shell interactions. <br/>
-for example  i use extract.sh for extract (rar zip 7z) files just give address of file and maybe password of rar file then you have unrar file <br/>
+that I use on my daily shell interactions. <br/> H2
+for example: i use extract.sh for extract (rar zip 7z) files <br/>
+just give address of file and maybe password of rar file then you have unrar file <br/>
 
 extract.sh : extract format ( rar zip 7z ) <br/>
 weather.sh : show the weather in your terminal <br/>
